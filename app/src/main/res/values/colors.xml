@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B3410D</color>
+    <color name="colorPrimaryDark">#91360D</color>
+    <color name="colorAccent">#F3621F</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorBottomNavigation">#F3621F</color>
+    <color name="colorBottomNavigationClick">#A53D0E</color>
+    <color name="colorBloodBankNumber">#BC1616</color>
+    <color name="colorBloodBankLabling">#880A0A</color>
+    <color name="colorDonorNumber">#3CA80E</color>
+    <color name="colorDonorLabling">#2B7809</color>
+    <color name="colorBackgroundMainLayout">#FFE2D6</color>
+    <color name="colorFirstName">#14495A</color>
+    <color name="colorSecondName">#57797E</color>
+    <color name="listBackground">#fff</color>
+    <color name="listBackgroundClick">#FFEEEE</color>
+</resources>

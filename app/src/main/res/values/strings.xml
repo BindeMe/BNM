@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="bloodBankNumber">12345789</string>
+    <string name="bloodBankNumberLabling">Blood Bank</string>
+    <string name="donorLabling">Blood Donor</string>
+    <string name="averageDistance">5KM</string>
+    <string name="hospitanName">Bindhanima Hospital</string>
+    <string name="hospitalAddress">Bindhanima,Tigiria</string>
+</resources>
